@@ -16,7 +16,7 @@ Forecasting analyst in London, moving into data science. I work on demand and ca
   A daily Python pipeline reads the Home Office sponsor register, finds each company's job board across 12 hiring platforms, and tags every role by region, skills and years of experience asked.
   Includes a CV matcher that runs entirely in the browser (your CV never leaves your device) and an application tracker that keeps the exact CV and cover letter sent for each job.
 
-- 🌫️ **[AQI Predictor](https://github.com/Advith023/aqi-predictor)**
+- 🌏 **[AQI Predictor](https://github.com/Advith023/aqi-predictor)**
   Estimates India's daily Air Quality Index from 12 pollutant readings. Trained on 2015 to 2018 and tested on unseen 2019 to 2020 data: R² 0.89 and a typical error of about 19 AQI points. Flask app with a JSON API.
 
 **Coming next**
