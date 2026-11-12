@@ -30,4 +30,4 @@ Python · SQL · BigQuery · pandas · scikit-learn · Looker · Power BI · Ana
 
 **Get in touch**
 
-[LinkedIn]([https://www.linkedin.com/in/YOUR-PROFILE](https://www.linkedin.com/in/advith-ashok-484830161/) · or open an issue on any repo
+[LinkedIn](https://www.linkedin.com/in/advith-ashok-484830161/) · or open an issue on any repo
