@@ -11,7 +11,7 @@ Forecasting analyst in London, moving into data science. I work on demand and ca
 
 **Projects**
 
-- 🟢 **[SponsorLive](https://advith023.github.io/sponsor-live-jobs/)** ([code](https://github.com/Advith023/sponsor-live-jobs))
+- 🟢 **[SponsorScout](http://github.com/Advith023/sponsor-live-jobs)** ([code](https://github.com/Advith023/sponsor-live-jobs))
   Live UK jobs at companies that hold a visa sponsor licence, pulled straight from their own careers pages, so no reposts or ghost listings.
   A daily Python pipeline reads the Home Office sponsor register, finds each company's job board across 12 hiring platforms, and tags every role by region, skills and years of experience asked.
   Includes a CV matcher that runs entirely in the browser (your CV never leaves your device) and an application tracker that keeps the exact CV and cover letter sent for each job.
