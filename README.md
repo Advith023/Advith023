@@ -22,7 +22,7 @@ Forecasting analyst in London and a Data nerd. I work on demand and capacity for
 **Coming next**
 
 - 📈 Research into context-aware, adaptive forecasting: when a forecast should actually be revised, and how to judge forecasts by the decisions they lead to, not just by error metrics
-- 🛠️ An independent forecasting and decision-support tool for workload and resource planning
+
 
 **Tools**
 
