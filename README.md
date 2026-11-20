@@ -1,6 +1,6 @@
 ### Hi, I'm Advith 👋
 
-Forecasting analyst in London, moving into data science. I work on demand and capacity forecasting for operational teams in fintech, and outside work I build tools around problems I've run into myself.
+Forecasting analyst in London and a Data nerd. I work on demand and capacity forecasting for operational teams in fintech, and outside work I build tools around problems I've run into myself.
 
 **What I work on**
 
